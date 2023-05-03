@@ -7,6 +7,6 @@
         }   
         else {
             echo "$i adalah bilangan ganjil" . "<br>";
+        }
     }
-}
 ?>
