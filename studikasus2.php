@@ -97,7 +97,7 @@
 			    <td><?php echo $nomor ?></td>
 			    <td><?php echo $data['nama'] ?></td>
 			    <td><?php echo $tanggal .' '. $bulan .' '. $tahun;?></td>
-			    <td><?php echo $umur .  'tahun' ?></td>
+			    <td><?php echo $umur  .' tahun' ?></td>
 			    <td><?php echo $data['alamat'] ?></td>
 			    <td><?php echo $data['kelas'] ?></td>
 			    <td><?php echo $data['nilai'] ?></td>
